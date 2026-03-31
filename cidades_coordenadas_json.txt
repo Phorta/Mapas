@@ -1,0 +1,38 @@
+===================================
+GISMAPS - www.gismaps.com.br
+===================================
+Mapas Temáticos - Geoprocessamento
+===================================
+
+* Grupo: Divisão Política
+
+* Título: Coordenadas geográficas das cidades brasileiras (GeoJSON)
+
+* Descrição: Coordenadas geográficas da sede das cidades brasileiras no formato GeoJSON
+
+* Ano/Revisão: 2024
+
+* Data: 26/08/2024
+
+* Fonte: IBGE
+
+* EPSG: 4674 - SIRGAS 2000
+
+* Conteúdo:
+
+CD_GEOCODM - geocódigo do município segundo IBGE
+NM_MUNICIP - nome do município segundo IBGE
+NM_MICRO - nome da microrregião
+NM_MESO - nome da mesorregião
+NM_UF - nome da Unidade da Federação
+LONG - longitude
+LAT - latitude
+ALT - altitude
+
+************ Quantidade de registros: 5.565
+
+Obs: o arquivo foi gerado conforme fontes consultadas
+
+===================================
+GISMAPS - www.gismaps.com.br
+===================================
